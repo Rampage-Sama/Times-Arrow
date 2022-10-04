@@ -5,3 +5,5 @@ What needs to be done:
 - comment out the blog section.
 - colours need changing to be more accurate with the company colours of company.
 - logo(company name) needs to be more to the left.
+- change the colours
+- comment out the blog section we'll use it in the future 
