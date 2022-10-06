@@ -252,3 +252,22 @@ h6,
     padding: 0;
     list-style-type: none;
 }
+
+/*------------------------- Brands ------------------------*/
+.brands-center {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+    padding: 100px;
+}
+
+.brand {
+    height: 8rem;
+    width: 8rem;
+    margin: 0 auto;
+}
+
+.brand img {
+    object-fit: contain;
+}
+
