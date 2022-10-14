@@ -7,3 +7,4 @@ What needs to be done:
 - perfect for small business pricing section.
 - colours need changing to be more accurate with the company colours of company provincial SEO perfect for SME's 800 a month local package up to 7 key words.
 - provincial SEO perfect for SME's 1200 up to 15 words.
+- remove borders from the tables and logo
